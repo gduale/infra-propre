@@ -20,4 +20,4 @@
 * Travailler avec la méthode Kabna (Trello / Jira)
 * On doit pouvoir mettre en maintenance son application par du code
 * Gestion des backups avec un outil open source dédié
-
+* Pour la partie gestion du réseau : Software-defined networking
