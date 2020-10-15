@@ -21,3 +21,4 @@
 * On doit pouvoir mettre en maintenance son application par du code
 * Gestion des backups avec un outil open source dédié
 * Pour la partie gestion du réseau : Software-defined networking
+* Tous les identifiants et mots de passe accèssibles via navigateur web dans un Keepass like en https. (avec des ACL)
