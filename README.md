@@ -22,3 +22,4 @@
 * Gestion des backups avec un outil open source dédié
 * Pour la partie gestion du réseau : Software-defined networking
 * Tous les identifiants et mots de passe accèssibles via navigateur web dans un Keepass like en https. (avec des ACL)
+* Si possible aucun point de montage sur les serveurs
