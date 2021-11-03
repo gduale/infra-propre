@@ -17,7 +17,7 @@
   * La doc en markdown versionné dans git puis génération de page html (ou pdf) via pandoc ou mkdocs + CI pour mettre à dispo la doc en html
 * Le code doit être commenté
 * Best tool for the job : pas de stack ! Un choix de tool devrait être justifié
-* Travailler avec la méthode Kabna (Trello / Jira)
+* Travailler avec la méthode Kanban (Trello / Jira)
 * On doit pouvoir mettre en maintenance son application par du code
 * Gestion des backups avec un outil open source dédié
 * Pour la partie gestion du réseau : Software-defined networking
