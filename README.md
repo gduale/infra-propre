@@ -8,7 +8,7 @@
 * On doit pouvoir déployer une VM, sa configuration et sa supervision de manière 100% automatique
 * MaC : Monitoring As Code : Sensu par exemple
 * Le DNS en automatique, dans git, git push et ça déploie les nouvelles entrées DNS
-* Un outil de type IPAM avec API pour stocker les informations réseaux
+* Un outil de type IPAM avec API pour stocker les informations réseaux -> NetBox
 * On doit pouvoir déployer son application, son code, juste en faisant "git push", le reste doit être automatique
   * Préciser (dans le projet ?) sur quelle brique logicielle doit tourner l'appli
 * Utiliser un outil de type puppet ou ansible pour automatiser l'infra (+ terraform ?)
