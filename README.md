@@ -23,3 +23,4 @@
 * Pour la partie gestion du réseau : Software-defined networking
 * Tous les identifiants et mots de passe accèssibles via navigateur web dans un Keepass like en https. (avec des ACL)
 * Aucun point de montage permanent sur les serveurs
+* Les applications ne doivent pas envoyer de mails pour "logger" les erreurs.
