@@ -25,3 +25,4 @@
 * Gestion des secrets applicatifs : Vault
 * Aucun point de montage permanent sur les serveurs
 * Les applications ne doivent pas envoyer de mails pour "logger" les erreurs.
+* La vie des applications doit être monitoré : par exemple Sentry
